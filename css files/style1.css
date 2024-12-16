@@ -116,7 +116,7 @@ header li img {
     position: relative;
     width: 100%;
     height: 620px;
-    background-image: url("images/im.jpg");
+    background-image: url("im.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -127,35 +127,35 @@ header li img {
 /* Background image slider starts */
 @keyframes bgchange {
     0% {
-        background-image: url("images/video-bg.jpg");
+        background-image: url("video-bg.jpg");
     }
 
     20% {
-        background-image: url("images/video-bg.jpg");
+        background-image: url("video-bg.jpg");
     }
 
     25% {
-        background-image: url("images/nurses-in-hospital-setting.jpg");
+        background-image: url("nurses-in-hospital-setting.jpg");
     }
 
     45% {
-        background-image: url("images/nurses-in-hospital-setting.jpg");
+        background-image: url("nurses-in-hospital-setting.jpg");
     }
 
     50% {
-        background-image: url("images/ai-generated-8775433_1280.png");
+        background-image: url("ai-generated-8775433_1280.png");
     }
 
     70% {
-        background-image: url("images/ai-generated-8775433_1280.png");
+        background-image: url("ai-generated-8775433_1280.png");
     }
 
     75% {
-        background-image: url("images/image3.webp");
+        background-image: url("image3.webp");
     }
 
     100% {
-        background-image: url("images/image3.webp");
+        background-image: url("image3.webp");
     }
 }
 
@@ -453,7 +453,7 @@ header li img {
 
 .cta-section {
     position: relative;
-    background-image: url('images/call-bg.jpg');
+    background-image: url('call-bg.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -752,7 +752,7 @@ header li img {
 }
 
 .bg-image{
-    background-image: url(images/about-bg.jpg);
+    background-image: url(about-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -1688,7 +1688,7 @@ tr:nth-child(even) {
     position: relative;
     width: 100%;
     height: 520px;
-    background-image: url("images/360_F_729455059_KN7YGWwNn4M3ONUIq8NjPVMrMio70Q3U.jpg");
+    background-image: url("360_F_729455059_KN7YGWwNn4M3ONUIq8NjPVMrMio70Q3U.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2601,7 +2601,7 @@ tr:nth-child(even) {
     width: 500px;
     height: 500px;
     position: relative;
-    background-image: url('../images/fluoxetine-medication-plastic-vial-antidepressant-used-to-treat-dep.jpg');
+    background-image: url('fluoxetine-medication-plastic-vial-antidepressant-used-to-treat-dep.jpg');
     background-size: cover;
 }
 
@@ -2721,7 +2721,7 @@ tr:nth-child(even) {
     width: 500px;
     height: 500px;
     position: relative;
-    background-image: url('../images/bottle-sertraline-hcl-ml-medication-container-shoopers-drug-mart-ca.webp');
+    background-image: url('bottle-sertraline-hcl-ml-medication-container-shoopers-drug-mart-ca.webp');
     background-size: cover;
 }
 
@@ -3183,7 +3183,7 @@ tr:nth-child(even) {
     width: 80%;
     height: 100%;
     pointer-events: none; 
-    background-image: url(../images/check-correct-3d-icon-free-png.webp);
+    background-image: url(check-correct-3d-icon-free-png.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }
